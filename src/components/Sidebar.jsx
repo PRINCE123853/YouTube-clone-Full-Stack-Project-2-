@@ -294,7 +294,7 @@ const sidebarItems5 = [
 <p>Terms Privacy Policy & Safety <br /> How YouTube works <br /> Test new features</p>
 </span>
 <br />
-<p className='text-xs text-gray-800 mt-1'>© Prince Kumar (B-tech CSE)</p>
+<p className='text-xs text-gray-800 mt-1'>© Phulkeshwar (B-tech CSE)</p>
 </div>
   )
 }
